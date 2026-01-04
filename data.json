@@ -22,5 +22,17 @@
         "publisher": "Avery",
         "isbn": "978-0735211292",
         "pages": "320"
+    },
+    {
+    "id": "3",
+    "title": "Prisoners of Geography",
+    "author": "Tim Marshall",
+    "category": "International Relations / Geopolitics",
+    "cover": "https://covers.openlibrary.org/b/id/11135431-L.jpg",
+    "pdfPath": "Storage/Prisoners_of_Geography.pdf",
+    "description": "Tim Marshall examines the physical world to explain why global politics often plays out the same way. By looking at 10 maps, he illustrates how geography limits the choices of world leaders and explains the strategic moves of superpowers.",
+    "publisher": "Scribner",
+    "isbn": "978-1501121470",
+    "pages": "304"
     }
 ]
